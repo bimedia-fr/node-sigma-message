@@ -1,5 +1,5 @@
 {
-  "name": "node-sigma-message",
+  "name": "sigma-message",
   "version": "0.0.0",
   "description": "simple key-value message parser and formater",
   "main": "src/index.js",
