@@ -1,6 +1,6 @@
 {
   "name": "sigma-message",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple key-value message parser and formater",
   "main": "src/index.js",
   "scripts": {
