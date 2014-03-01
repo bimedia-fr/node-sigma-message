@@ -4,7 +4,8 @@
   "description": "simple key-value message parser and formater",
   "main": "src/index.js",
   "scripts": {
-    "test": "vows --spec test/test*.js"
+    "test": "vows --spec test/test*.js",
+    "docs": "docco src/*.js"
   },
   "repository": {
     "type": "git",
