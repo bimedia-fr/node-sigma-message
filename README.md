@@ -13,7 +13,7 @@ synopsis
 ```javascript
 var parser = require('sigma-message')();
 
-var obj = parse('key=value;other=val');
+var obj = parser.parse('key=value;other=val');
 console.log(obj);
 // outputs {key:value,other:val}
 ```  
